@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jan 30 16:05:34 CST 2015
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1422605134013
+http\://mvnrepository.com/.error=
+http\://mvnrepository.com/.lastUpdated=1422598746336
+default-http\://maven.antelink.com/content/repositories/central/.lastUpdated=1422598744395
+http\://maven.antelink.com/content/repositories/central/.error=Could not transfer artifact org.apache.maven.shared\:maven-filtering\:jar\:1.0-beta-4 from/to antelink.com (http\://maven.antelink.com/content/repositories/central/)\: No response received after 60000

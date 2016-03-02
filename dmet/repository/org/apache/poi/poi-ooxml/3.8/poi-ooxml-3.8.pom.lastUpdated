@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 12 16:23:43 CST 2015
+http\://repository.sonatype.org/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml\:pom\:3.8 from/to nexus (http\://repository.sonatype.org/content/groups/public)\: The operation was cancelled.
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1431419023848
+@default-http\://repository.sonatype.org/content/groups/public/.lastUpdated=1431419023853
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml\:pom\:3.8 from/to CN (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net
